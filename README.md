@@ -11,9 +11,9 @@ Código para placas ESP32
 - STATION_CHANNEL: canal do AP (necessário configurar o AP local para canal fixo)  
 
 ## FUNÇÕES
-getMessageHello(JsonDocument myObject); imprime as msg hello recebidas
-sendMessageHello(); envia msg hello a cada 11s
-checkConnection(); reinicia o ESP se perder conexao a rede mesh
+getMessageHello(JsonDocument myObject); imprime as msg hello recebidas  
+sendMessageHello(); envia msg hello a cada 11s  
+checkConnection(); reinicia o ESP se perder conexao a rede mesh  
 
 ## Observações:
 - Somente um dispositivo pode ser o nó raiz na malha (root)  
