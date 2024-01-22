@@ -20,8 +20,8 @@
 #define ID 16
 
 // Configurar a rede WIFI
-#define STATION_SSID "Grogu"
-#define STATION_PASSWORD "123@Mudar!"
+#define STATION_SSID "SSID da rede WIFI"
+#define STATION_PASSWORD "senha da rede wifi"
 #define STATION_CHANNEL 3
 
 //INCLUIR AS CONFIGURAÇÕES DE GPIO E VARIAVEIS PARA OS SENSORES USADOS
